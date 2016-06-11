@@ -1,0 +1,18 @@
+﻿{"NormalVersion":
+    {
+        "CtrlVersionCode":["0130","48152"],
+        "BleVersionCode":["0104","25164"],
+        "BmsVersionCode":["0113","13359"]
+    },
+"TestVersion":
+    {
+        "CtrlVersionCode":["0130","50500"],
+        "BleVersionCode":["0104","25164"],
+        "BmsVersionCode":["0113","13359"]
+    },
+"TestDevice":
+    [{"serial":"N3MEA1501A0002","id":"0","name":"haley"},
+     {"serial":"11961/10037019","id":"0","name":"haley"},
+     {"serial":"N3MPG1616T0582","id":"0","name":"haley"},
+     {"serial":"11960/10116427","id":"0","name":"haley"}]
+}
